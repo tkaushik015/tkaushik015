@@ -22,54 +22,85 @@ I am a passionate engineer with experience across **Data Engineering, Analytics,
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (click to expand)
+<sub>💡 Hover any icon for a tooltip • Click to open the official site</sub>
+
+<!-- Core / Always visible -->
 <p align="center">
-
-  <!-- Languages -->
-  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/></a>
-  <a href="https://openjdk.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/></a>
-  <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/></a>
-  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" title="R"/></a>
-
-  <!-- Data Engineering / Big Data -->
-  <a href="https://spark.apache.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark-original.svg" width="45" title="Apache Spark"/></a>
-  <a href="https://hadoop.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" title="Hadoop"/></a>
-  <a href="https://www.databricks.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45" title="Databricks"/></a>
-  <a href="https://airflow.apache.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45" title="Apache Airflow"/></a>
-  <a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" title="Kafka"/></a>
-
-  <!-- Databases / Warehouses -->
-  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/></a>
-  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/></a>
-  <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/></a>
-  <a href="https://www.snowflake.com"><img src="https://img.icons8.com/color/48/snowflake.png" width="45" title="Snowflake"/></a>
-  <a href="https://cloud.google.com/bigquery"><img src="https://img.icons8.com/color/48/google-cloud.png" width="45" title="BigQuery"/></a>
-  <a href="https://aws.amazon.com/redshift/"><img src="https://img.icons8.com/color/48/amazon-web-services.png" width="45" title="Amazon Redshift"/></a>
-
-  <!-- Machine Learning / AI -->
-  <a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="pandas"/></a>
-  <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/></a>
-  <a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" title="Scikit-learn"/></a>
-  <a href="https://pytorch.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" title="TensorFlow"/></a>
-
-  <!-- Visualization & BI -->
-  <a href="https://www.tableau.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45" title="Tableau"/></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/power-bi.png" width="45" title="Power BI"/></a>
-
-  <!-- Cloud -->
-  <a href="https://azure.microsoft.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" title="Microsoft Azure"/></a>
-  <a href="https://aws.amazon.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" title="AWS"/></a>
-  <a href="https://cloud.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" title="Google Cloud"/></a>
-
-  <!-- DevOps / Tools -->
-  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/></a>
-  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/></a>
-  <a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" title="Kubernetes"/></a>
-  <a href="https://www.linux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/></a>
-
+  <a href="https://www.python.org" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/></a>
+  <a href="https://openjdk.org" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/></a>
+  <a href="https://www.linux.org" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/></a>
 </p>
+
+<!-- Data Engineering -->
+<details>
+  <summary><b>📦 Data Engineering</b> — Spark, Databricks, Airflow, Kafka, dbt</summary>
+  <p align="left">
+    <a href="https://spark.apache.org" title="Apache Spark"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark-original.svg" width="40"/></a>
+    <a href="https://www.databricks.com" title="Databricks"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="40"/></a>
+    <a href="https://airflow.apache.org" title="Apache Airflow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/></a>
+    <a href="https://kafka.apache.org" title="Apache Kafka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/></a>
+    <a href="https://www.getdbt.com" title="dbt"><img src="https://skillicons.dev/icons?i=dbt" width="40" /></a>
+  </p>
+</details>
+
+<!-- Databases & Warehouses -->
+<details>
+  <summary><b>🗄️ Databases & Warehouses</b> — Postgres, MySQL, MongoDB, Snowflake, Redshift, BigQuery</summary>
+  <p align="left">
+    <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></a>
+    <a href="https://www.mysql.com" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a>
+    <a href="https://www.mongodb.com" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></a>
+    <a href="https://www.snowflake.com" title="Snowflake"><img src="https://skillicons.dev/icons?i=snowflake" width="40"/></a>
+    <a href="https://aws.amazon.com/redshift/" title="Amazon Redshift"><img src="https://skillicons.dev/icons?i=redshift" width="40"/></a>
+    <a href="https://cloud.google.com/bigquery" title="BigQuery"><img src="https://skillicons.dev/icons?i=bigquery" width="40"/></a>
+  </p>
+</details>
+
+<!-- ML / DS -->
+<details>
+  <summary><b>🤖 ML / Data Science</b> — pandas, NumPy, scikit-learn, PyTorch, TensorFlow</summary>
+  <p align="left">
+    <a href="https://pandas.pydata.org" title="pandas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></a>
+    <a href="https://numpy.org" title="NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></a>
+    <a href="https://scikit-learn.org" title="scikit-learn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/></a>
+    <a href="https://pytorch.org" title="PyTorch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a>
+    <a href="https://www.tensorflow.org" title="TensorFlow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
+  </p>
+</details>
+
+<!-- Analytics / BI -->
+<details>
+  <summary><b>📊 Analytics & BI</b> — Tableau, Power BI, SQL</summary>
+  <p align="left">
+    <a href="https://www.tableau.com" title="Tableau"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/></a>
+    <a href="https://powerbi.microsoft.com" title="Power BI"><img src="https://skillicons.dev/icons?i=powerbi" width="40"/></a>
+    <a href="https://mode.com/sql-tutorial" title="SQL"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>
+  </p>
+</details>
+
+<!-- Cloud -->
+<details>
+  <summary><b>☁️ Cloud</b> — Azure, AWS, GCP</summary>
+  <p align="left">
+    <a href="https://azure.microsoft.com" title="Microsoft Azure"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/></a>
+    <a href="https://aws.amazon.com" title="Amazon Web Services"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></a>
+    <a href="https://cloud.google.com" title="Google Cloud"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/></a>
+  </p>
+</details>
+
+<!-- DevOps / Platform -->
+<details>
+  <summary><b>🧪 DevOps & Platform</b> — Docker, Kubernetes, Linux, REST APIs</summary>
+  <p align="left">
+    <a href="https://www.docker.com" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
+    <a href="https://kubernetes.io" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/></a>
+    <a href="https://www.linux.org" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></a>
+    <a href="https://restfulapi.net" title="REST APIs"><img src="https://skillicons.dev/icons?i=postman" width="40"/></a>
+  </p>
+</details>
+
 
 
 ## 📌 Featured Projects  
