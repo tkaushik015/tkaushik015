@@ -1,45 +1,80 @@
-# Hi 👋, I'm Tushar Kaushik  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kaushik-493a8115a/)  
-📧 **kaushiktk015@gmail.com** • 📍 Los Angeles, CA  
-
-🎓 Master's in **Applied Data Science @ USC**  
-💼 Data Analyst Intern @ USC Graduate Admissions | Ex-Data Engineer @ Koantek  
+<!-- HEADER: photo left | info right -->
+<table>
+  <tr>
+    <td width="180" valign="top" align="center">
+      <img src="https://github.com/tkaushik015.png" width="160" style="border-radius:50%" alt="Tushar Kaushik"/>
+    </td>
+    <td valign="middle">
+      <h1>Hi 👋, I'm Tushar Kaushik</h1>
+      <p>
+        🎓 <b>MS, Applied Data Science — University of Southern California (USC)</b><br/>
+        📍 Los Angeles, CA<br/>
+        🔗 <a href="https://www.linkedin.com/in/tushar-kaushik-493a8115a/">LinkedIn</a> •
+        📧 <a href="mailto:kaushiktk015@gmail.com">kaushiktk015@gmail.com</a>
+      </p>
+      <p>
+        Versatile <b>Data Engineer | Data Analyst | Business Analyst | ML Enthusiast | Software Developer</b>.  
+        I design data pipelines, build analytics dashboards, and apply ML to real-world problems, turning raw data into impactful insights.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 About Me  
-Versatile **Data Engineer | Data Analyst | Business Analyst | ML Enthusiast | Software Developer** with experience across **data pipelines, analytics, cloud, and machine learning**.  
-I enjoy turning raw data into **actionable insights**, designing **scalable systems**, and applying **ML models** to real-world problems.  
-
----
-
-## 🧰 Tech Stack  
+## 🧰 Tech Stack
 
 <p align="left">
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+  <!-- Languages / DB -->
+  <a href="https://www.python.org" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" />
+  </a>
+  <a href="https://openjdk.org" title="Java">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" />
+  </a>
+  <a href="https://www.postgresql.org" title="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" />
+  </a>
+  <a href="https://www.sqlite.org" title="SQLite">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" />
+  </a>
 
-<!-- Big Data / Cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark-original.svg" width="40" title="Apache Spark"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Microsoft Azure"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="Amazon Web Services"/>
+  <!-- Big Data / Cloud -->
+  <a href="https://spark.apache.org" title="Apache Spark">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark-original.svg" width="42" />
+  </a>
+  <a href="https://www.databricks.com" title="Databricks">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="42" />
+  </a>
+  <a href="https://azure.microsoft.com" title="Microsoft Azure">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" />
+  </a>
+  <a href="https://aws.amazon.com" title="Amazon Web Services">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="42" />
+  </a>
 
-<!-- Analytics / ML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" title="Tableau"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-learn"/>
+  <!-- Analytics / ML -->
+  <a href="https://pandas.pydata.org" title="pandas">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" />
+  </a>
+  <a href="https://numpy.org" title="NumPy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" />
+  </a>
+  <a href="https://scikit-learn.org" title="scikit-learn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" />
+  </a>
+  <a href="https://www.tableau.com" title="Tableau">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="42" />
+  </a>
 
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <!-- Dev / OS -->
+  <a href="https://git-scm.com" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" />
+  </a>
+  <a href="https://www.linux.org" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" />
+  </a>
 </p>
-
 
 ---
 
@@ -73,8 +108,10 @@ I enjoy turning raw data into **actionable insights**, designing **scalable syst
 ---
 
 ## 📊 GitHub Stats  
+
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkaushik015&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkaushik015&layout=compact&theme=radical)
 
 ---
+
 ⭐️ From [tkaushik015](https://github.com/tkaushik015)
