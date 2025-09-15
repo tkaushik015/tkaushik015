@@ -34,19 +34,6 @@ I am a passionate engineer with experience across **Data Engineering, Analytics,
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Coding gif" width="300"/>
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPJPlsTSgfGSf0vBi/giphy.gif" alt="Data flow animation" width="300"/>
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Abstract tech animation" width="300"/>
-</p>
 
 
 
