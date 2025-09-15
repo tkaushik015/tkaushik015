@@ -56,11 +56,6 @@ I’m a passionate **Data Engineer / Data Analyst** with professional experience
 
 ---
 
-## 📊 GitHub Stats
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkaushik015&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkaushik015&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tushar-kaushik-493a8115a/)  
