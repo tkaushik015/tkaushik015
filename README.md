@@ -20,14 +20,15 @@
 ---
 
 ## 👨‍💻 About Me
-I am a passionate engineer with experience across **Data Engineering, Analytics, ML, and Software Development**.  
-- 🛠 Skilled in **Azure, AWS, Databricks, PySpark, SQL**  
-- 📊 Experienced with **Power BI, Tableau** for BI and decision-making  
-- 🤖 ML with **scikit-learn, XGBoost, feature engineering, predictive modeling**  
-- 💻 Strong in **Python, APIs, Git, Docker, Linux**  
-- 🚀 I love turning data into scalable solutions and actionable insights  
 
----
+I’m a passionate engineer with a strong foundation in **Data Engineering, Analytics, ML, and Software Development**, driven to turn **raw data** into **actionable insights** and **reliable systems**.  
+
+- 🛠 Skilled in **Azure, AWS, Databricks, PySpark, SQL** for building **scalable data pipelines** and **cloud solutions**  
+- 📊 Proficient with **Power BI** & **Tableau** for **BI, dashboarding, and data-driven decision-making**  
+- 🤖 Experienced in **Machine Learning** with **scikit-learn, XGBoost, feature engineering, predictive modeling**  
+- 💻 Strong in **Python, APIs, Git, Docker, Linux**, blending **software engineering best practices** with **data solutions**  
+- 🚀 Passionate about designing **end-to-end solutions** that combine **engineering, analytics, and AI** to drive **measurable business impact**  
+
 
 
 
