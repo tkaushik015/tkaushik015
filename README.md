@@ -13,12 +13,13 @@
 ---
 
 ## 👨‍💻 About Me
-I am a passionate engineer with experience across **Data Engineering, Analytics, ML, and Software Development**.  
+I am a passionate engineer with experience across **Data Engineering, Analytics, ML, Business Analysis, and Software Development**.  
+
 - 🛠 Skilled in **Azure, AWS, Databricks, PySpark, SQL**  
 - 📊 Experienced with **Power BI, Tableau** for BI and decision-making  
 - 🤖 ML with **scikit-learn, XGBoost, feature engineering, predictive modeling**  
 - 💻 Strong in **Python, APIs, Git, Docker, Linux**  
-- 🚀 I love turning data into scalable solutions and actionable insights  
+- 🚀 I love turning data into **scalable pipelines, dashboards, and AI-powered applications**  
 
 ---
 
@@ -68,9 +69,7 @@ I am a passionate engineer with experience across **Data Engineering, Analytics,
   </tr>
 </table>
 
-
-
-
+---
 
 ## 📌 Featured Projects  
 
@@ -98,6 +97,8 @@ I am a passionate engineer with experience across **Data Engineering, Analytics,
 
 ### 🔹 Analytics & BI  
 - [**Adidas Sales Performance Analytics**](https://github.com/tkaushik015/Adidas-Sales-Performance-Analytics-Insights-Driven-Decision-Making-with-Tableau) – Designed **Tableau dashboards** to uncover KPIs, trends, and business insights.  
+
+---
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tkaushik015&show_icons=true&theme=radical" height="150"/> 
