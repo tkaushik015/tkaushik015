@@ -1,4 +1,3 @@
-I want teck stack logos and gif next to each other, keep tech stack logos in 4 lines
 
 
 
@@ -33,6 +32,23 @@ I am a passionate engineer with experience across **Data Engineering, Analytics,
 <p align="center">
   <img src="https://camo.githubusercontent.com/48d30aafc86131bcb77c8085cea9ea944c74ae4f6026127eb5be2d7bae8f285b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" width="300"/>
 </p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Coding gif" width="300"/>
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPJPlsTSgfGSf0vBi/giphy.gif" alt="Data flow animation" width="300"/>
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Abstract tech animation" width="300"/>
+</p>
+
+
 
 <!-- Tech Stack Icons -->
 <p align="center">
