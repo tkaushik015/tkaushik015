@@ -39,16 +39,12 @@ I’m a passionate engineer with a strong foundation in **Data Engineering, Data
 
 ### 🔹 Data Engineering (Azure)  
 - [**NYC-TAXI-DataEngineering-Project**](https://github.com/tkaushik015/NYC-TAXi-DataEngineering-Project) – ETL for **100GB+ taxi data** using ADF, Databricks, and Delta Lake.  
-- [**Scalable Healthcare Data Pipeline using Azure**](https://github.com/tkaushik015/Scalable-Healthcare-Data-Pipeline-using-Azure) – Processed EMR & claims data with **Medallion Architecture**.  
-- [**Real-Time API Data Pipeline with Azure & Databricks**](https://github.com/tkaushik015/Real-Time-API-Data-Pipeline-with-Azure-and-Databricks) – Built **real-time ingestion pipelines** with Delta Lake & Databricks.  
+- [**Azure End-to-End Data Engineering Pipeline**]([https://github.com/tkaushik015/Real-Time-API-Data-Pipeline-with-Azure-and-Databricks](https://github.com/tkaushik015/Enterprise-Data-Governance-and-Analytics-Framework/blob/main/README.md))
 - [**Healthcare Data Governance & ETL Optimization (Azure)**](https://github.com/tkaushik015/Healthcare-Data-Governance-and-ETL-Optimization-Using-Azure) – Implemented **SCD2, lineage, schema evolution** for governance.  
 
 ---
 
-### 🔹 Data Engineering (AWS)  
-- [**Healthcare Data Governance & ETL Optimization (AWS)**](https://github.com/tkaushik015/Healthcare-Data-Governance-and-ETL-Optimization-Using-AWS) – Developed secure **ETL pipelines** with AWS Glue, S3, and Redshift.  
-- [**Enterprise Data Governance & Compliance Framework (AWS)**](https://github.com/tkaushik015/Enterprise-Data-Governance-and-Compliance-Framework-on-AWS) – Designed **governance & compliance framework** with auditing, logging, cataloging.  
-- [**Real-Time API Data Pipeline (AWS – NYC Taxi)**](https://github.com/tkaushik015/Real-Time-API-Data-Pipeline-with-AWS-NYC-Taxi-Data) – Created **real-time API pipelines** with AWS Glue, Lambda, and S3.  
+
 
 ---
 
