@@ -39,7 +39,7 @@ I’m a passionate engineer with a strong foundation in **Data Engineering, Data
 
 ### 🔹 Data Engineering (Azure)  
 - [**NYC-TAXI-DataEngineering-Project**](https://github.com/tkaushik015/NYC-TAXi-DataEngineering-Project) – ETL for **100GB+ taxi data** using ADF, Databricks, and Delta Lake.  
-- [**Azure End-to-End Data Engineering Pipeline**]([https://github.com/tkaushik015/Real-Time-API-Data-Pipeline-with-Azure-and-Databricks](https://github.com/tkaushik015/Enterprise-Data-Governance-and-Analytics-Framework/blob/main/README.md))
+
 - [**Healthcare Data Governance & ETL Optimization (Azure)**](https://github.com/tkaushik015/Healthcare-Data-Governance-and-ETL-Optimization-Using-Azure) – Implemented **SCD2, lineage, schema evolution** for governance.  
 
 ---
