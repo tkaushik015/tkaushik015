@@ -1,151 +1,41 @@
-<!-- ============================================================ -->
-<!--   TUSHAR KAUSHIK — README.md · Option 7 Fixed              -->
-<!--   Name = plain H1 markdown · always visible · never clips  -->
-<!-- ============================================================ -->
+<div style="background-color:black; color:white; padding:20px; border-radius:10px;">
 
-<div align="center">
+<!-- Animated GIF -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/48d30aafc86131bcb77c8085cea9ea944c74ae4f6026127eb5be2d7bae8f285b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" width="500"/>
+</p>
 
-<!-- ── Wave banner — purely decorative, deep navy/teal ─────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0a2540,65:0e6b8a,100:0a0f1e&height=160&section=header" width="100%"/>
-
-</div>
-
-<!-- ── Name as raw markdown H1 — GitHub native, always black, never breaks ── -->
-<h1 align="center">Tushar Kaushik</h1>
-
-<div align="center">
-
-<!-- ── Role cycling animation ─────────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=14&duration=2800&pause=600&color=0E6B8A&center=true&vCenter=true&width=720&lines=Data+Engineer+%7C+ML+Engineer+%7C+Data+Scientist;AI+Engineer+%7C+Software+Engineer+%7C+Analytics;Data+%C2%B7+AI+%C2%B7+Engineering+%C2%B7+Insights" alt="Roles"/>
-
-<br/><br/>
-
-<!-- ── Pills ──────────────────────────────────────────────────── -->
-<img src="https://img.shields.io/badge/MS%20Applied%20Data%20Science-USC-990000?style=flat-square&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Los%20Angeles%2C%20CA-0a2540?style=flat-square&logo=googlemaps&logoColor=5eead4"/>
-
-<br/><br/>
-
-<!-- ── Social links ───────────────────────────────────────────── -->
-<a href="https://www.linkedin.com/in/tushar-kaushik-493a8115a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:kaushiktk015@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/tkaushik015">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=tkaushik015&color=0e6b8a&style=flat-square&label=profile+views"/>
-
-<br/><br/>
-
-<!-- ── Open to roles — cycling in muted gray ─────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=12&duration=3200&pause=500&color=6B7280&center=true&vCenter=true&width=780&lines=Open+to+%7C+Data+Analyst+·+Data+Scientist+·+Data+Engineer+·+AI%2FML+Engineer+·+Software+Engineer" alt="Open to roles"/>
-
-</div>
+<h1 align="center" style="color:white;">Hi 👋, I'm Tushar Kaushik</h1>
+<p align="center" style="color:white;">
+🎓 MS, Applied Data Science — <b>University of Southern California (USC)</b><br/>
+📍 Los Angeles, CA<br/>
+🔗 <a href="https://www.linkedin.com/in/tushar-kaushik-493a8115a/" style="color:#58a6ff;">LinkedIn</a> • 
+📧 <a href="mailto:kaushiktk015@gmail.com" style="color:#58a6ff;">kaushiktk015@gmail.com</a>
+</p>
 
 ---
 
-## `$ whoami`
-
-```python
-class TusharKaushik:
-    """
-    MS Applied Data Science @ USC  ·  Los Angeles, CA
-    ─────────────────────────────────────────────────────────────────
-    I sit at the intersection of Data Engineering, Data Science,
-    Analytics, and AI — building systems that don't just process
-    data, but extract intelligence from it at scale.
-    ─────────────────────────────────────────────────────────────────
-    Open to : Data Analyst · Data Scientist · Data Engineer
-              AI/ML Engineer · Software Engineer
-    """
-
-    stack = {
-        "Data Engineering" : ["Azure ADF", "Databricks", "PySpark", "Delta Lake", "Kafka"],
-        "Cloud Platforms"  : ["Azure", "GCP — Vertex AI · Cloud Run · BigQuery", "AWS"],
-        "ML / DL / NLP"    : ["PyTorch", "TensorFlow", "XGBoost", "scikit-learn", "HuggingFace"],
-        "GenAI & LLMs"     : ["LlamaIndex", "CrewAI", "AutoGen", "RAG Pipelines", "DeepEval"],
-        "MLOps"            : ["MLflow", "Kubeflow", "FastAPI", "Docker", "CI/CD · Cloud Build"],
-        "Analytics & BI"   : ["Power BI", "Tableau", "SQL", "BigQuery", "A/B Testing"],
-        "SWE & DevOps"     : ["Python", "Flask", "REST APIs", "Git", "Linux", "Terraform"],
-    }
-```
+## 👨‍💻 About Me  
+I'm a passionate engineer with a strong foundation in **Data Engineering, Data Science, Analytics, ML, Deep Learning, NLP, and Software Development**, driven to turn **raw data** into **actionable insights** and **reliable systems**.  
+- 🛠 Skilled in **Azure, AWS, Databricks, PySpark, SQL** for building **scalable data pipelines** and **cloud solutions**  
+- 📊 Proficient with **Power BI** & **Tableau** for **BI, dashboarding, and data-driven decision-making**  
+- 🤖 Experienced in **Machine Learning, Deep Learning, and NLP** with **scikit-learn, XGBoost, TensorFlow, PyTorch, transformers, feature engineering, predictive modeling**  
+- 💻 Strong in **Python, APIs, Git, Docker, Linux**, blending **software engineering best practices** with **data solutions**  
+- 🚀 Passionate about designing **end-to-end solutions** that combine **engineering, analytics, NLP, and AI** to drive **measurable business impact**  
 
 ---
 
-## ⚡ Tech Stack
+## 📌 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**Languages & DevOps**
-
-[![](https://skillicons.dev/icons?i=python,bash,git,docker,linux,terraform&theme=dark)](https://skillicons.dev)
-
-</td>
-<td align="center" width="25%">
-
-**ML · DL · AI**
-
-[![](https://skillicons.dev/icons?i=pytorch,tensorflow,flask&theme=dark)](https://skillicons.dev)
-
-![scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**Cloud & Data Eng**
-
-[![](https://skillicons.dev/icons?i=azure,gcp,aws&theme=dark)](https://skillicons.dev)
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)&nbsp;
-![Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**Analytics & BI**
-
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
+### 🔹 Data Science & Machine Learning
 
 ---
 
-## 🚀 Projects
+#### [ECG Anomaly Detection — LSTM Autoencoder (PyTorch)](https://github.com/tkaushik015/ECG-Anomaly-Detection)
 
-### Machine Learning & AI
+`Python` · `PyTorch` · `MLflow` · `SHAP` · `FastAPI` · `GCP Cloud Run` · `scikit-learn`
 
-<br/>
-
-**[🫀 ECG Anomaly Detection — LSTM Autoencoder](https://github.com/tkaushik015/ECG-Anomaly-Detection)**
-
-> Unsupervised time-series anomaly detection on 5,000 cardiac sequences — trained exclusively on normal heartbeats, anomalies surfaced via reconstruction error spikes.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)&nbsp;
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)&nbsp;
-![SHAP](https://img.shields.io/badge/SHAP-0e6b8a?style=flat-square&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)&nbsp;
-![GCP](https://img.shields.io/badge/GCP%20Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+> Unsupervised time-series anomaly detection on 5,000 cardiac sequences — trained exclusively on normal heartbeats, anomalies surfaced via reconstruction error spikes. 6 MLflow experiments across latent dims 16/32/64 identified latent dim 32 with 0.1 dropout as optimal.
 
 ```
 Architecture   2-layer LSTM Autoencoder · latent dim 32 · 0.1 dropout (optimal of 3 configs)
@@ -159,20 +49,13 @@ Deployment     FastAPI inference endpoint · containerized · live on GCP Cloud 
 |:---:|:---:|:---:|
 | **0.89** | **0.93** | **↓ 14%** vs baseline |
 
-<br/>
-
 ---
 
-**[💹 GenFinance — Multi-Agent RAG System](https://github.com/tkaushik015/GenFinance-Multi-Agent-RAG-System-for-Financial-Document-Analysis)**
+#### [GenFinance: Multi-Agent RAG for Financial Document Analysis](https://github.com/tkaushik015/GenFinance-Multi-Agent-RAG-System-for-Financial-Document-Analysis)
 
-> Production-grade multi-agent pipeline ingesting SEC filings and earnings call transcripts — routes queries across specialized agents, benchmarks LLM accuracy, cuts analysis time from hours to minutes.
+`Python` · `LlamaIndex` · `CrewAI` · `AutoGen` · `DeepEval` · `GPT-4o` · `Claude Sonnet`
 
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)&nbsp;
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square)&nbsp;
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square)&nbsp;
-![DeepEval](https://img.shields.io/badge/DeepEval-22C55E?style=flat-square)&nbsp;
-![Claude](https://img.shields.io/badge/Claude%20Sonnet-CC785C?style=flat-square)&nbsp;
-![GPT4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square)
+> Production-grade multi-agent pipeline ingesting SEC filings and earnings call transcripts — routes queries across specialized agents, benchmarks LLM accuracy, and cuts analysis time from hours to minutes. Benchmarked GPT-4o and Claude Sonnet on 50 chart interpretation tasks using DeepEval — Claude Sonnet delivered better results at lower cost, driving final model selection.
 
 ```
 Pipeline       LlamaIndex retrieval → CrewAI agent orchestration → AutoGen task delegation
@@ -186,20 +69,13 @@ Business ROI   Financial document analysis time cut from ~3 hours to under 25 mi
 |:---:|:---:|:---:|
 | **3 hr → 25 min** | **↓ 22%** | **↓ 40%** |
 
-<br/>
-
 ---
 
-**[👶 BabyWeight Predictor — End-to-End MLOps on GCP](https://github.com/tkaushik015/CloudML-Engine-End-to-End-MLOps-Pipeline-on-GCP-Vertex-AI-Kubeflow-)**
+#### [BabyWeight Predictor: End-to-End MLOps on Vertex AI and Kubeflow](https://github.com/tkaushik015/CloudML-Engine-End-to-End-MLOps-Pipeline-on-GCP-Vertex-AI-Kubeflow-)
 
-> Full MLOps lifecycle on GCP — model comparison, automated retraining, blue/green deployment, and live drift monitoring. Production-readiness beyond just model accuracy.
+`Python` · `GCP Vertex AI` · `Kubeflow` · `BigQuery ML` · `Cloud Build` · `Terraform` · `Docker`
 
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white)&nbsp;
-![VertexAI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)&nbsp;
-![BigQueryML](https://img.shields.io/badge/BigQuery%20ML-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)&nbsp;
-![CloudBuild](https://img.shields.io/badge/Cloud%20Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white)&nbsp;
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> Full MLOps lifecycle on GCP — compared BQML and AutoML on Vertex AI Pipelines using BigQuery Natality data, automated retraining with blue/green deployment, and live drift monitoring. Demonstrates production-readiness beyond just model accuracy.
 
 ```
 Model Comparison  AutoML vs BQML on BigQuery Natality dataset — data-driven model selection
@@ -213,29 +89,25 @@ Infrastructure    Terraform-provisioned GCP resources — reproducible, version-
 |:---:|:---:|:---:|
 | **↓ 18%** (AutoML) | **4 hr → 35 min** | Blue/Green + Drift Detection |
 
-<br/>
+---
+
+### 🔹 Academic & Research
+
+- [**DSCI-510-Final-Project**](https://github.com/tkaushik015/DSCI-510-Final-Project) – Advanced **data analysis & visualization** project (USC). End-to-end data collection, wrangling, EDA, and visual storytelling from USC's Applied Data Science program.
+- [**Chat-DB-Project**](https://github.com/tkaushik015/Chat-DB-Project-main) – AI-powered **Text-to-SQL chatbot** (Python, Flask, Hugging Face, Airflow). HuggingFace transformer model translating natural language queries to SQL via a Flask API, orchestrated with Airflow.
+- [**Real-Time Stock Trading Analytics Platform**](https://github.com/tkaushik015/Real-Time-Stock-Trading-Analytics-Platform) – Built a **real-time trading analytics platform** using APIs & ML insights. Live market data ingestion with ML-driven trading signals on an interactive analytics dashboard.
 
 ---
 
-**[🗣️ Chat-DB — Natural Language to SQL](https://github.com/tkaushik015/Chat-DB-Project-main)**&emsp;·&emsp;**[📈 Real-Time Stock Trading Analytics](https://github.com/tkaushik015/Real-Time-Stock-Trading-Analytics-Platform)**&emsp;·&emsp;**[🎓 DSCI-510 @ USC](https://github.com/tkaushik015/DSCI-510-Final-Project)**
-
-> **Chat-DB** — HuggingFace transformer translating natural language to SQL via Flask API, orchestrated with Airflow.&emsp;**Stock Analytics** — live market data ingestion with ML-driven trading signals on an interactive real-time dashboard.&emsp;**DSCI-510** — USC capstone: end-to-end data collection, wrangling, EDA, and visual storytelling.
+### 🔹 Data Engineering (Azure)
 
 ---
 
-### 🏗️ Data Engineering — Azure
+#### [NYC-TAXI-DataEngineering-Project](https://github.com/tkaushik015/NYC-TAXi-DataEngineering-Project)
 
-<br/>
-
-**[🚕 NYC Taxi — 100GB+ Medallion ETL Pipeline](https://github.com/tkaushik015/NYC-TAXi-DataEngineering-Project)**
+`Azure ADF` · `Databricks` · `Delta Lake` · `PySpark` · `ADLS Gen2`
 
 > Enterprise-scale batch pipeline processing 100GB+ of NYC taxi records. Full Medallion architecture — raw ingestion through to analytics-ready Gold layer serving both BI dashboards and ML feature stores.
-
-![ADF](https://img.shields.io/badge/Azure%20ADF-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)&nbsp;
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)&nbsp;
-![DeltaLake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)&nbsp;
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)&nbsp;
-![ADLS](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ```
 Bronze   Raw ingestion → Azure Data Lake Storage Gen2 · schema-on-read
@@ -244,16 +116,13 @@ Gold     Aggregated business-ready Delta tables · Z-order optimized for query s
 Scale    100GB+ records · partitioned by date · optimized for Power BI DirectQuery
 ```
 
-<br/>
+---
 
-**[🏢 Enterprise Azure End-to-End Data Pipeline](https://github.com/tkaushik015/Enterprise-Data-Governance-and-Analytics-Framework/blob/main/README.md)**
+#### [Azure End-to-End Data Engineering Pipeline](https://github.com/tkaushik015/Enterprise-Data-Governance-and-Analytics-Framework/blob/main/README.md#clone-the-repo)
 
-> Multi-team enterprise pipeline — incremental ingestion, full data governance with Unity Catalog lineage, and a Power BI semantic layer. Built to production governance standards.
+`Azure ADF` · `Databricks` · `Delta Lake` · `Unity Catalog` · `Power BI`
 
-![ADF](https://img.shields.io/badge/Azure%20ADF-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)&nbsp;
-![UnityCatalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)&nbsp;
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)&nbsp;
-![DeltaLake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)
+> Multi-team enterprise pipeline — incremental ingestion, full data governance with Unity Catalog lineage tracking, and a Power BI semantic layer. Built to production governance standards.
 
 ```
 Ingestion    Incremental watermark-based loads · change data capture patterns
@@ -261,14 +130,13 @@ Governance   Unity Catalog · column-level lineage · row/column access control 
 Reporting    Power BI semantic layer · DirectQuery + import hybrid · scheduled refresh
 ```
 
-<br/>
+---
 
-**[🏥 Healthcare Data Governance & ETL Optimization](https://github.com/tkaushik015/Healthcare-Data-Governance-and-ETL-Optimization-Using-Azure)**
+#### [Healthcare Data Governance & ETL Optimization (Azure)](https://github.com/tkaushik015/Healthcare-Data-Governance-and-ETL-Optimization-Using-Azure)
+
+`Azure` · `Databricks` · `SCD2` · `Delta Lake`
 
 > SCD Type 2 for full historical tracking, schema evolution handling, and end-to-end data provenance — built to healthcare compliance standards on Azure.
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)&nbsp;
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 ```
 SCD Type 2   Full history preserved · current/expired flag · effective dating
@@ -278,17 +146,15 @@ Lineage      Column-level data provenance · audit-ready for healthcare complian
 
 ---
 
-### 📊 Analytics & BI
+### 🔹 Analytics & BI
 
-<br/>
+---
 
-**[👟 Adidas Sales Performance Analytics](https://github.com/tkaushik015/Adidas-Sales-Performance-Analytics-Insights-Driven-Decision-Making-with-Tableau)**
+#### [Adidas Sales Performance Analytics](https://github.com/tkaushik015/Adidas-Sales-Performance-Analytics-Insights-Driven-Decision-Making-with-Tableau)
 
-> End-to-end analytics: data cleaning → dimensional modeling → interactive Tableau dashboard. Revenue KPIs, regional performance, product mix trends, and retailer breakdowns for non-technical stakeholders.
+`Tableau` · `SQL` · `Python`
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> End-to-end analytics: data cleaning → dimensional modeling → interactive Tableau dashboard surfacing revenue KPIs, regional performance, product mix trends, and retailer-level breakdowns for non-technical stakeholders.
 
 ```
 Analysis     Revenue trends · regional performance · product category mix · YoY comparisons
@@ -298,36 +164,9 @@ Key Insight  Identified top-performing SKUs by margin — not just volume — ac
 
 ---
 
-<!-- ── Contribution snake ───────────────────────────────────────── -->
-<div align="center">
-<br/>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
----
-
-<!-- ── Footer ─────────────────────────────────────────────────────── -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,40:0a2540,70:0e6b8a,100:0a0f1e&height=120&section=footer" width="100%"/>
-
-<br/>
-
-```
-  "Without data, you're just another person with an opinion."
-                                          — W. Edwards Deming
-```
-
-<br/>
-
-<a href="https://www.linkedin.com/in/tushar-kaushik-493a8115a/">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:kaushiktk015@gmail.com">
-<img src="https://img.shields.io/badge/Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-<sub>Los Angeles, CA &nbsp;·&nbsp; Open to opportunities</sub>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tkaushik015&show_icons=true&theme=radical" height="150"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkaushik015&layout=compact&theme=radical" height="150"/>
+</p>
 
 </div>
