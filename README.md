@@ -15,13 +15,15 @@
 
 ---
 
-## 👨‍💻 About Me  
-I'm a passionate engineer with a strong foundation in **Data Engineering, Data Science, Analytics, ML, Deep Learning, NLP, and Software Development**, driven to turn **raw data** into **actionable insights** and **reliable systems**.  
-- 🛠 Skilled in **Azure, AWS, Databricks, PySpark, SQL** for building **scalable data pipelines** and **cloud solutions**  
-- 📊 Proficient with **Power BI** & **Tableau** for **BI, dashboarding, and data-driven decision-making**  
-- 🤖 Experienced in **Machine Learning, Deep Learning, and NLP** with **scikit-learn, XGBoost, TensorFlow, PyTorch, transformers, feature engineering, predictive modeling**  
-- 💻 Strong in **Python, APIs, Git, Docker, Linux**, blending **software engineering best practices** with **data solutions**  
-- 🚀 Passionate about designing **end-to-end solutions** that combine **engineering, analytics, NLP, and AI** to drive **measurable business impact**  
+## 👨‍💻 About Me
+
+MS Applied Data Science graduate from **USC** with hands-on experience across the full data lifecycle — from building **100GB+ ETL pipelines** on Azure to deploying **LSTM models** on GCP Cloud Run to orchestrating **multi-agent LLM systems** that cut analysis time by 88%. I don't just build models — I ship production systems.
+
+- ☁️ Built enterprise-scale **Medallion ETL pipelines** on **Azure ADF + Databricks + Delta Lake**, and end-to-end **MLOps workflows** on **GCP Vertex AI + Kubeflow** with automated retraining, drift monitoring, and blue/green deployment
+- 🤖 Developed and deployed **ML/DL models** using **PyTorch, TensorFlow, XGBoost, and scikit-learn** — with MLflow experiment tracking, SHAP explainability, and FastAPI inference endpoints
+- 🧠 Designed **multi-agent GenAI pipelines** using **LlamaIndex, CrewAI, and AutoGen** over SEC filings — benchmarked GPT-4o vs Claude Sonnet using DeepEval, achieving **22% lower hallucination at 40% lower cost**
+- 📊 Translated complex data into decisions through **Power BI & Tableau dashboards**, dimensional modeling, A/B testing, and stakeholder-facing analytics — bridging engineering and business
+- 💻 Strong software engineering foundation in **Python, REST APIs, Docker, Git, Linux, and Terraform** — shipping clean, reproducible, production-ready code across cloud environments  
 
 ---
 
